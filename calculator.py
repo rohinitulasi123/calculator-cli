@@ -9,7 +9,7 @@ def subtract(a, b):
 # Step 3: Define the function for multiplication
 def multiply(a, b):
     return a * b
-5
+
 # Step 4: Define the function for division
 def divide(a, b):
     if b == 0:
